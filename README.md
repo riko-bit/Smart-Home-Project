@@ -9,7 +9,6 @@
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Examples](#examples)
-7. [License](#license)
 
 ## Introduction
 
@@ -140,9 +139,3 @@ Thresholds represent specific values set to analyze system behavior and outputs.
   <br>
   <em>Figure 10: Cost savings for threshold level 6</em>
 </p>
-
-## License
-
-This project is licensed under the MIT License.
-
----
